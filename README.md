@@ -7,3 +7,7 @@
 ## Написание Vagrantfile
 - [Vagrant Provisioning](https://www.vagrantup.com/docs/provisioning) и [на русском](https://automation-remarks.com/setting-vagrant/)
 - [Полная документация по Vagrant для самоподготовки](https://www.vagrantup.com/docs)
+
+## Интерактивное обучение
+- Начало работы: https://learn.hashicorp.com/vagrant
+- Сети и Провижн: https://learn.hashicorp.com/collections/vagrant/networking-provisioning-operations
